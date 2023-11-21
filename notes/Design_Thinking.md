@@ -17,6 +17,8 @@ The Stanford d.school's framework of design thinking is a non-linear, iterative 
 
 5. **Test:** This is the final phase of the process, where you will test your prototypes with users to get feedback. You will observe how they use the prototypes and ask them for their thoughts and suggestions. This feedback will help you to refine your prototypes and make them better.
 
+![d.school](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5m_keMjw7252Tz052Lmt1gF4-RyGDPQrc5xpFyAUz9IvESQRt2rf1fkEdbOEHJiOqkw&usqp=CAU)
+
 The design thinking process is not always linear, and you may need to move back and forth between the phases as you work. The important thing is to be iterative and to keep testing your ideas with users.
 
 Here are some of the key principles of Stanford d.school's design thinking framework:
@@ -113,4 +115,13 @@ Design thinking can be a powerful tool for agribusinesses to address a wide rang
 10. **Fostering innovation and collaboration:** Design thinking can create a culture of innovation and collaboration within agribusinesses, leading to the development of new ideas and solutions.
 
 By focusing on these areas, agribusinesses can use design thinking to address pressing challenges, create value for their stakeholders, and contribute to a more sustainable and equitable food system.
+
+## IDEO Framework
+- **Discovery:** During the discovery phase, the focus is on understanding the approach to a challenge by understanding what it is, preparing research, and gathering inspiration
+- **Interpretation:** In the interpretation phase, stories are told, there is a search for meaning, and opportunities are framed.
+- **Ideation:** In ideation, creation ideas are generated and refined.
+- **Experimentation:** The experimentation phase consists of making prototypes and getting feedback.
+- **Evoluation:** Evolution includes tracking learnings and moving forward.
+
+![IDEO](/notes/other/IDEO.png)
 

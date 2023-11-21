@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2023-11-21T13:47:41.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="jIEAIMwuJYoxCPmoRtDJ" version="21.7.5" type="device">
+  <diagram name="Page-1" id="eudoYkLHnH5XyLm0wJA3">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pxSYnPQSIt4GMQPt7gGC-1" value="Listen" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxSYnPQSIt4GMQPt7gGC-2" value="Explore" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxSYnPQSIt4GMQPt7gGC-3" value="Considration" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxSYnPQSIt4GMQPt7gGC-4" value="Demostrate" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxSYnPQSIt4GMQPt7gGC-5" value="Feedback" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="425" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxSYnPQSIt4GMQPt7gGC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="265" width="600" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pxSYnPQSIt4GMQPt7gGC-7" value="Fig. 1. Itrative LEC Software Design &amp;amp; Thinking Framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="550" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

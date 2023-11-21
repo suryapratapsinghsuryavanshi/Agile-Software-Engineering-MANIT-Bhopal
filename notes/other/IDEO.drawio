@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2023-11-21T13:45:39.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="rnehyrMHhZOQo8QNZhYB" version="21.7.5" type="device">
+  <diagram name="Page-1" id="VN-8Q-kjOI3rEuNzqfu4">
+    <mxGraphModel dx="1509" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nqygAUrVyWPL-0sZAmdM-1" value="Discovery" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nqygAUrVyWPL-0sZAmdM-2" value="Interpretation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nqygAUrVyWPL-0sZAmdM-8" value="Ideation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nqygAUrVyWPL-0sZAmdM-9" value="Experimentation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nqygAUrVyWPL-0sZAmdM-10" value="Evolution" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="425" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nqygAUrVyWPL-0sZAmdM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="254" width="600" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nqygAUrVyWPL-0sZAmdM-12" value="Fig. 1. IDEO Framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="543" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
