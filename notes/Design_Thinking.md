@@ -125,3 +125,6 @@ By focusing on these areas, agribusinesses can use design thinking to address pr
 
 ![IDEO](/notes/other/IDEO.png)
 
+## Dual Diamond Framework
+
+![Dual Diamond](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4842-6153-8_1/MediaObjects/492553_1_En_1_Fig3_HTML.png)
