@@ -111,22 +111,21 @@ Regression is a statistical and machine learning technique used for modeling the
 ## Types of Regression
 
 ### Simple Linear Regression
-In simple linear regression, there is one independent variable (\(x\)) and one dependent variable (\(y\)). The relationship is represented by the equation:
-\[ y = mx + b \]
+In simple linear regression, there is one independent variable ($x$) and one dependent variable ($y$). The relationship is represented by the equation: $y = mx + b $
 where:
-- \( y \) is the dependent variable,
-- \( x \) is the independent variable,
-- \( m \) is the slope (change in \( y \) for a unit change in \( x \)),
-- \( b \) is the y-intercept (the value of \( y \) when \( x \) is 0).
+- $y$ is the dependent variable,
+- $x$ is the independent variable,
+- $m$ is the slope (change in $y$ for a unit change in $x$),
+- $b$ is the y-intercept (the value of $y$ when $x$ is 0).
 
 ### Multiple Linear Regression
-In multiple linear regression, there are multiple independent variables (\(x_1, x_2, \ldots, x_n\)) influencing a single dependent variable (\(y\)). The relationship is represented as:
-\[ y = b_0 + b_1x_1 + b_2x_2 + \ldots + b_nx_n \]
+In multiple linear regression, there are multiple independent variables ($x_1, x_2, \ldots, x_n$) influencing a single dependent variable ($y$). The relationship is represented as:
+$y=b_0+b_1x_1+b_2x_2+\ldots+b_nx_n$
 where:
-- \( y \) is the dependent variable,
-- \( x_1, x_2, \ldots, x_n \) are the independent variables,
-- \( b_0 \) is the y-intercept,
-- \( b_1, b_2, \ldots, b_n \) are the coefficients representing the change in \( y \) for a unit change in each respective \( x \).
+- $y$ is the dependent variable,
+- $x_1, x_2, \ldots, x_n$ are the independent variables,
+- $b_0$ is the y-intercept,
+- $b_1, b_2, \ldots, b_n$ are the coefficients representing the change in $y$ for a unit change in each respective $x$.
 
 ## Objective of Regression
 The main objective of regression is to find the best-fitting model that minimizes the difference between the observed values and the values predicted by the model. This is achieved by determining the optimal coefficients (slopes and intercepts) that define the relationship between the variables.
