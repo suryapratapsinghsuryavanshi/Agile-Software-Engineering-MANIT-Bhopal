@@ -28,9 +28,9 @@ K-Nearest Neighbors is a supervised machine learning algorithm. It is used for b
 - Step 1: Choose the number of K neighbors, K should not be even.
 - Step 2: Calculate the distance of the new data point with the existing data points.
 - Step 3: Find the nearest data points based on the Euclidean distance, Manhattan distance, Minkowski distance, etc.
-    - Euclidean distance: $ d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} $
-    - Manhattan distance: $ d = |x_2 - x_1| + |y_2 - y_1| $
-    - Minkowski distance: $ d = \sqrt[p]{(|x_2 - x_1|)^p + (|y_2 - y_1|)^p} $
+    - Euclidean distance:$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
+    - Manhattan distance:$d = |x_2 - x_1| + |y_2 - y_1|$
+    - Minkowski distance:$d = \sqrt[p]{(|x_2 - x_1|)^p + (|y_2 - y_1|)^p}$
 - Step 4: Count the the most K nearest neighbors of the new data point.
 - Step 5: Assign the new data point to the class where you counted the most neighbors.
 
@@ -71,8 +71,8 @@ A neural network is a series of algorithms that endeavors to recognize underlyin
 An activation function is a function in a neural network that decides whether the neuron should be activated or not by calculating weighted sum and further adding bias with it. The purpose of the activation function is to introduce non-linearity into the output of a neuron. It squashes the input into a smaller range. It is differentiable, which means it can find the slope of the curve at any two points. It should be monotonic in nature, i.e., its value should be either entirely increasing or decreasing or constant. It should be continuous, i.e., it should be defined for all values of input. It should be computationally efficient to calculate. It should have a derivative that can be calculated. It should produce a consistent output for a given input.
 
 ### Types of Activation Functions
-- Sigmoid: $ f(x) = \frac{1}{1 + e^{-x}} $
-- Tanh: $ f(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}} $
-- ReLU: $ f(x) = max(0, x) $
-- Leaky ReLU: $ f(x) = max(0.01x, x) $
-- Softmax: $ f(x) = \frac{e^{x_i}}{\sum_{j=1}^{k} e^{x_j}} $
+- Sigmoid:$f(x) = \frac{1}{1 + e^{-x}}$
+- Tanh:$f(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}}$
+- ReLU:$f(x) = max(0, x)$
+- Leaky ReLU:$f(x) = max(0.01x, x)$
+- Softmax:$f(x) = \frac{e^{x_i}}{\sum_{j=1}^{k} e^{x_j}}$
