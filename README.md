@@ -15,3 +15,4 @@ This course is under MTech. so have only four semesters divided into 2 and 2-sem
 | [Software Architecture](/notes/software_arch.md)          | CS-SA          | Study of designing and structuring software systems. Involves decisions on system organization, component interactions, and patterns to ensure scalability, maintainability, and performance. |
 | [Humanities](/notes/english.md)                     | HUM            | Analytical study of English literature, including novels, poetry, and drama. Explores literary themes, historical contexts, and critical interpretation. |
 | [Mathematics](/notes/Numerical_Analysis.md)                    | MATH           | Application of mathematical methods to solve problems involving numerical approximation and computation. Focuses on algorithms for solving mathematical problems numerically. |
+| [Practical Project](/notes/practical.md) | DL/ML | a |

@@ -20,6 +20,15 @@ Numerical analysts use algorithms, software, and computer systems to perform cal
 - Graeffe Method
 - Graeffe method for complex root
 - Lin Bairstow Method
+- Solution of System of Equation
+    - Direct Methods
+        - Gauss Elimination Methods
+        - Gauss Jordan Method
+        - Courts Method
+    - Indirect Methods(Itretive)
+        - Jacobi Iterative Method
+        - Gauss Sidal Iterative Method
+        - Relexation Method
 
 ### Bisection Method
 > The bisection method is an approximation method to find the roots of the given equation by repeatedly dividing the interval. This method will divide the interval until the resulting interval is found, which is extremely small.
@@ -160,3 +169,31 @@ q<sub>1</sub> = q<sub>0</sub> + Δq
 1. Root to be ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha%5Cpm%20i%5Cbeta)
 1. ![](https://latex.codecogs.com/gif.latex?%5Cinline%20-2%5Calpha%20%3D%20p)
 8. ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha%5E2&plus;%5Cbeta%5E2%3Dq)
+
+### Gauss Elimination Methods
+It is a direct method to solve the system of equation by the help of matrix. First form a matrix Ax=B where, A is a value of the coficient of the equation and B is a matrix of equal terms of the equation.
+
+- $Ax=B$
+- $A:B$
+- Convert $A:B$ matrix into upper digonal matrix.
+- And solve by puting values one by one.
+
+### Gauss Jordan Methods
+It is a direct method to solve the system of equation by the help of matrix. First form a matrix Ax=B where, A is a value of the coficient of the equation and B is a matrix of equal terms of the equation.
+
+- $Ax=B$
+- $A:B$
+- Convert $A:B$ matrix into digonal matrix.
+- Minimize the equation and find the value of variables.
+
+### Courts Method
+- $Ax=B$
+- $A=LU$
+- $U={upper-trengular-matrix}$
+- $L={lower-trengular-matrix}$
+- $if A=LU; then; LUx=B$
+- $Let,Ux=y$
+- $Ly=B$
+- $A:B$
+- Convert $A:B$ matrix into digonal matrix.
+- Minimize the equation and find the value of variables.
