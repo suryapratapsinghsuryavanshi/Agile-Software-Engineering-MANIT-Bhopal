@@ -12,14 +12,15 @@ Numerical analysis is a branch of mathematics that uses numerical approximation 
 Numerical analysts use algorithms, software, and computer systems to perform calculations, simulations, optimization, data analysis, and modeling.
 
 ## Topics we have learn
-- Bisection Method
-- Regula Falsi
-- Iteration Method
-- Secant Method
-- Newton-Raphson Method
-- Graeffe Method
-- Graeffe method for complex root
-- Lin Bairstow Method
+- Solution of linear of Equation
+    - Bisection Method
+    - Regula Falsi
+    - Iteration Method
+    - Secant Method
+    - Newton-Raphson Method
+    - Graeffe Method
+    - Graeffe method for complex root
+    - Lin Bairstow Method
 - Solution of System of Equation
     - Direct Methods
         - Gauss Elimination Methods
@@ -29,6 +30,24 @@ Numerical analysts use algorithms, software, and computer systems to perform cal
         - Jacobi Iterative Method
         - Gauss Sidal Iterative Method
         - Relexation Method
+- Interpolation
+    - Equal Interval
+        - Newton Froword Formula
+        - Newton Backword Formula
+        - Gauss Forword Formula
+        - Gauss Backword Formula
+        - Stirling Formula
+        - Bessal's Formula
+    - Unequal Interval
+        - Lagrange's Interpolation Formula
+        - Newton Divided Diffrence
+        - Inverse Lagrange's Formula
+    - Numerical Integration
+        - Trapezoidal Rule
+        - Simpson $\dfrac{1}{3}$ Rule
+        - Simpson $\dfrac{3}{8}$ Rule
+    - Numerical Diffrentiation
+        - All Formula of Equal and Unqual interval can be diffrenciate, and it konown as numerical diffrenciation. For finding f'(x) or f''(x) etc.
 
 ### Bisection Method
 > The bisection method is an approximation method to find the roots of the given equation by repeatedly dividing the interval. This method will divide the interval until the resulting interval is found, which is extremely small.
@@ -170,6 +189,8 @@ q<sub>1</sub> = q<sub>0</sub> + Δq
 1. ![](https://latex.codecogs.com/gif.latex?%5Cinline%20-2%5Calpha%20%3D%20p)
 8. ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Calpha%5E2&plus;%5Cbeta%5E2%3Dq)
 
+## Solution of System of Equation
+
 ### Gauss Elimination Methods
 It is a direct method to solve the system of equation by the help of matrix. First form a matrix Ax=B where, A is a value of the coficient of the equation and B is a matrix of equal terms of the equation.
 
@@ -197,3 +218,41 @@ It is a direct method to solve the system of equation by the help of matrix. Fir
 - $A:B$
 - Convert $A:B$ matrix into digonal matrix.
 - Minimize the equation and find the value of variables.
+
+## Interpolation
+### Equal Interval
+#### Newton Froword Formula(Bignining Diffrence)
+$f(a+hu)=f(a)+\dfrac{u}{1!}\Delta f(a)+\dfrac{u(u-1)}{2!}\Delta^2 f(a)+\dfrac{u(u-1)(u-2)}{3!}\Delta^3 f(a)+\dfrac{u(u-1)(u-2)(u-3)}{4!}\Delta^4 f(a)+\ldots$
+
+#### Newton Backword Formula(Least Diffrence)
+$f(a+hu)=f(a)+\dfrac{u}{1!}\nabla f(a)+\dfrac{u(u+1)}{2!}\nabla^2 f(a)+\dfrac{u(u+1)(u+2)}{3!}\nabla^3 f(a)+\dfrac{u(u+1)(u+2)(u+3)}{4!}\nabla^4 f(a)+\ldots$
+
+#### Gauss Froword Formula(Central Bignining Diffrence)
+$f(a+hu)=y_{0}+\dfrac{u}{1!}\Delta y_{0}+\dfrac{u(u-1)}{2!}\Delta^2 y_{-1}+\dfrac{u(u-1)(u+1)}{3!}\Delta^3 y_{-1}+\dfrac{u(u-1)(u+1)(u-2)}{4!}\Delta^4 y_{-2}+\ldots$
+
+#### Gauss Backword Formula(Central Least Diffrence)
+$f(a+hu)=y_{0}+\dfrac{u}{1!}\Delta y_{-1}+\dfrac{u(u+1)}{2!}\Delta^2 y_{-1}+\dfrac{u(u+1)(u-1)}{3!}\Delta^3 y_{-2}+\dfrac{u(u+1)(u-1)(u+2)}{4!}\Delta^4 y_{-2}+\ldots$
+
+#### Striling Central Diffrence
+$f(a+hu)=y_{0}+\dfrac{u}{1!}[\dfrac{\Delta y_{0} + \Delta y_{-1}}{2}]+\dfrac{u^2}{2!}\Delta^2 y_{-1}+\dfrac{u(u^2-1)}{3!}[\dfrac{\Delta^3 y_{-1} + \Delta^3 y_{-2}}{2}]+\dfrac{u^2(u^2-1)}{4!}\Delta^4 y_{-2}+\ldots$
+
+#### Bessal's Central Diffrence
+$f(a+hu)=[\dfrac{y_{0} + y_{1}}{2}]+\dfrac{(u-1/2)}{1!}\Delta y_{0}+\dfrac{u(u-1)}{2!}[\dfrac{\Delta^2 y_{-1}+\Delta^2 y_{0}}{2}]+\dfrac{u(u-1)(u-1/2)}{3!}\Delta^3 y_{-1}+\dfrac{u(u-1)(u-2)(u+1)}{4!}[\dfrac{\Delta^4 y_{-1}+\Delta^4 y_{-2}}{2}]+\ldots$
+
+### Unequal Interval
+#### Langranges Unequal Interval Interpolation Formula
+Given that a value of $x$.
+| $X$ | $x_0$ | $x_1$ | $x_2$|
+| --| ----| ----| ---|
+| $Y$ | $y_0$ | $y_1$ | $y_2$ |
+
+$$
+f(x)=\dfrac{(x-x_1)(x-x_2)}{(x_0-x_1)(x_0-x_2)}*y_0+\dfrac{(x-x_0)(x-x_2)}{(x_1-x_0)(x_1-x_2)}*y_1+\dfrac{(x-x_0)(x-x_1)}{(x_2-x_0)(x_2-x_1)}*y_2
+$$
+
+#### Newton Divided Diffrence
+Form table by substractive $\dfrac{(x_{2}-x_{1})}{(y_{2}-y_{1})}$; And Apply formula.
+
+$$
+f(x)=f(x_0)+(x-x_0)\Delta f(x_0)+(x-x_0)(x-x_1)\Delta^2 f(x_0)+(x-x_0)(x-x_1)(x-x_2)\Delta^3 f(x_0)
+$$
