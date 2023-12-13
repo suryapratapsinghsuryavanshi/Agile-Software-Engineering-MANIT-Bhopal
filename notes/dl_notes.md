@@ -83,13 +83,13 @@ Deep Learning has taken the world by storm, revolutionizing fields like image re
 
 **1. Artificial Neural Network (ANN)**
 
-![](https://camo.githubusercontent.com/307b31356f56faf38e2a783f8912e16225a560eef5e70535386afa1b854551b7/68747470733a2f2f6431346239637477306d366669642e636c6f756466726f6e742e6e65742f7567626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f31322f312d342e706e67)
+![](https://www.researchgate.net/profile/Mahamad-Alam/publication/305325563/figure/fig1/AS:384012620189699@1468567152001/A-typical-artificial-neural-network-ANN.png)
 
 Imagine a brain made of interconnected nodes that process information. That's the essence of an ANN! These networks, inspired by the human brain, learn by adjusting connections between nodes based on data. They can solve complex problems like image classification and speech recognition.
 
 **2. Convolutional Neural Network (CNN)**
 
-![](https://camo.githubusercontent.com/8b8a246f5169d411a1356b796995f0f15b1a0962bb5fc5844c57b088a0bdc978/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f666f726d61743a776562702f312a336c74737631757a47523655426a5a364355733034412e6a706567)
+![](https://camo.githubusercontent.com/307b31356f56faf38e2a783f8912e16225a560eef5e70535386afa1b854551b7/68747470733a2f2f6431346239637477306d366669642e636c6f756466726f6e742e6e65742f7567626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f31322f312d342e706e67)
 
 Ever wondered how computers can recognize objects in images? CNNs are the answer! These specialized networks are like detectives, scanning images with "filters" to identify patterns and features. They excel in tasks like object detection, facial recognition, and medical image analysis.
 
