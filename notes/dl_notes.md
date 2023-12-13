@@ -76,3 +76,34 @@ An activation function is a function in a neural network that decides whether th
 - ReLU: $f(x) = max(0, x)$
 - Leaky ReLU: $f(x) = max(0.01x, x)$
 - Softmax: $f(x) = \frac{e^{x_i}}{\sum_{j=1}^{k} e^{x_j}}$
+
+## Celebrating the Most Popular Deep Learning Terms!
+
+Deep Learning has taken the world by storm, revolutionizing fields like image recognition, natural language processing, and even healthcare. Let's raise a glass to four of the most popular Deep Learning terms and delve into their fascinating worlds:
+
+**1. Artificial Neural Network (ANN)**
+
+![](https://www.researchgate.net/profile/Mahamad-Alam/publication/305325563/figure/fig1/AS:384012620189699@1468567152001/A-typical-artificial-neural-network-ANN.png)
+
+Imagine a brain made of interconnected nodes that process information. That's the essence of an ANN! These networks, inspired by the human brain, learn by adjusting connections between nodes based on data. They can solve complex problems like image classification and speech recognition.
+
+![](https://d14b9ctw0m6fid.cloudfront.net/ugblog/wp-content/uploads/2020/12/1-4.png)
+
+[Image of Convolutional neural network (CNN) diagram]
+
+Ever wondered how computers can recognize objects in images? CNNs are the answer! These specialized networks are like detectives, scanning images with "filters" to identify patterns and features. They excel in tasks like object detection, facial recognition, and medical image analysis.
+
+**3. Recurrent Neural Network (RNN)**
+
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3ltsv1uzGR6UBjZ6CUs04A.jpeg)
+
+RNNs have a unique ability: they remember! Unlike traditional ANNs that process one input at a time, RNNs can handle sequences of data, like text or time series. This makes them ideal for tasks like machine translation, sentiment analysis, and natural language generation.
+
+**4. Long Short-Term Memory (LSTM)**
+
+![](https://www.researchgate.net/publication/339120709/figure/fig1/AS:856315459010563@1581172923374/General-scheme-of-an-Long-Short-Term-Memory-neural-networks-LSTM-for-L-p-The.ppm)
+
+LSTMs are like long-distance runners in the world of RNNs. They can remember information for longer periods, making them powerful tools for tasks like language translation and speech recognition. LSTMs are also crucial in advanced Deep Learning models like Generative Adversarial Networks (GANs) and Transformers.
+
+These four terms represent just a small portion of the vibrant and ever-evolving Deep Learning landscape. As researchers continue to push the boundaries of this technology, we can only imagine the incredible applications that await us in the future. So, let's celebrate these groundbreaking terms and their potential to shape the world of tomorrow!
+
