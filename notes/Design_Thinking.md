@@ -128,3 +128,59 @@ By focusing on these areas, agribusinesses can use design thinking to address pr
 ## Dual Diamond Framework
 
 ![Dual Diamond](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4842-6153-8_1/MediaObjects/492553_1_En_1_Fig3_HTML.png)
+
+## ELMO Card
+- E - Enough
+- L - Let's
+- M - Move
+- O - On
+
+A tool that can be introduced at this time and used throughout the entire workshop is the ELMO card. These cards are useful for when discussions become too protracted and need to be deferred. Discussions that become extended and that begin to explore out-of-scope areas that are not relevant to the workshop can result in frustration among participants. As frustration grows, it is important that each participant feels empowered to suggest setting aside the discussion. In anticipation such situations, the facilitator might ask participants to write “ELMO” on an index card during this point in the workshop. The letters stand for “Enough, Let’s Move On.” This method for group focus enablement was introduced by Laurie Edwards Gray, a customer experience consultant in Atlanta. If anyone feels that the workshop is getting derailed by a discussion, they simply hold up or throw their ELMO card during the workshop. (Laurie recommends that the facilitator gently throw the first ELMO card to break the ice and show “safe” usage. Chances are that several participants, upon seeing the first card, will do the same. If they do not, the discussion should continue.) The facilitator will make note of the discussion on a whiteboard, and it will be addressed at the end of the workshop to either schedule another time to discuss and escalate or any other action the room deems relevant to the topic.
+
+## Participant Connections
+At this point, the person or their partner can be prompted to write the name and role of the person just introduced on a whiteboard. People in similar roles in the same organization are typically grouped together. Lines are then drawn to persons in different groups, and relationships are denoted among the various groups on the drawing. Such a diagram further helps to explain how the person fits in the organization.
+Figure below illustrates some of the workshop participants in our supply chain optimization example and their connections. We see how the plant workers are related to IT and the data science team. The identified plant workers are users of and supported by IT. Plant workers are users of solutions developed by the data science team. The data science team helps drive specifications for the infrastructure that IT provides.
+
+![Participant Connections](/notes/other/connections.png)
+
+## Covert and Overt
+The facilitator should be cognizant of signs of covert and overt resistance that 
+might be present in some participants. Covert resistance is often expressed in negative body language, such as participants having crossed arms, pointing their index fingers, making sideways glances, gripping the table with their hands, biting fingernails and pencils, crossing legs, and kicking or fidgeting. More overt signs might include lack of participation and input during team activities.
+
+## Design Thinking Workshop
+- Introduction of Divers Group/Team
+- Interect visually and inclusively
+- Collaborate and co-operate
+- Iterate, Iterate, Iterate
+
+## Inspiration Landscape
+| Player | +ve, what is good | -ve, not so good |
+| --- | --- | --- |
+| Internal | Plant magment. | Supply on gud fealing. |
+| Competition(Treditional) | Best profit, bet amount. | Prediction of supply cahin. |
+| Outside(Potential Treads) | Produce lots of product with market season. | maping of supply chain. |
+
+## Inovation Ebiation Matrix
+Before gathering ideas regarding how we might solve the identified problem, we might want to gage the innovation ambition tolerance within the organization. This can help workshop teams understand where they should focus when defining potential solutions. They should understand if their ideas for solutions are expected to be disruptive and highly strategic in their industry, solve an immediate crisis that is highly tactical, or span the broad spectrum. A means of classifying where solution ideas might fit is described as an innovation ambition matrix. It is described in an article published in May 2012 in the Harvard Business Review (see the Appendix for a link to the source). The matrix describes the three kinds of initiatives that organizations typically undertake as being core, adjacent, or transformational.
+
+![IAM](/notes/other/iam.png)
+
+## Creative Matrix
+The creative matrix is a tool that can be used to help workshop teams generate ideas for potential solutions. It is a simple matrix that can be used to help teams think about how they might solve the problem they are trying to address. The matrix is described in an article published in May 2012 in the Harvard Business Review (see the Appendix for a link to the source). The matrix describes the three kinds of initiatives that organizations typically undertake as being core, adjacent, or transformational.
+
+![CM](/notes/other/creative.png)
+
+## Value Complexity Graph
+Not all solution ideas that were identified in the previous exercise should be weighted equally. That said, you might wonder how the weights should be assigned. Since it is likely that the organization is also dealing with constraints, many find that the right approach to use is balancing the anticipated value of the solution with the limited resources available to successfully develop and deploy it.
+
+![VCG](/notes/other/complexity.png)
+
+
+## Story Boarding[Method of Visual Thinking]
+Story boarding is a method of visual thinking that can be used to help workshop teams develop a shared understanding of the problem they are trying to solve and the potential solutions they are considering. It is a simple technique that can be used to help teams think about how they might solve the problem they are trying to address. The matrix is described in an article published in May 2012 in the Harvard Business Review (see the Appendix for a link to the source). The matrix describes the three kinds of initiatives that organizations typically undertake as being core, adjacent, or transformational.
+
+![SB](/notes/other/story_board.png)
+
+### Levels of Software Design process
+- **High Level Design:** The high-level design provides an overview of the system architecture and the various components of the system and their relationships. It is usually accompanied by a high-level diagram that depicts the components and their relationships. The high-level design is usually created by the architect and reviewed by the development team.
+- **Low Level Design:** The low-level design provides a detailed description of the system components and their relationships. It is usually accompanied by a low-level diagram that depicts the components and their relationships. The low-level design is usually created by the development team and reviewed by the architect.
