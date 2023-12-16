@@ -260,3 +260,9 @@ Process Control Architecture refers to the organization and structure of the har
    - HVAC (Heating, Ventilation, and Air Conditioning) systems in buildings often incorporate process control for efficient temperature and humidity regulation.
 
 In summary, process control architecture is a fundamental aspect of industrial automation, playing a critical role in optimizing processes, ensuring safety, and enhancing overall operational efficiency in various industries.
+
+## Important Questions
+### Dynamic Software Development Method(DSDM) [LINK](https://geeksforgeeks.org/dynamic-systems-development-method-dsdm/)
+### Layered patterns
+### ARID(Active Review for Intermediate Designs) [LINK](https://www.geeksforgeeks.org/active-reviews-for-intermediate-designs-arid-in-software-architectures/)
+### Agile Architecture [LINK](https://www.agilest.org/agile-project-management/architecture/)
