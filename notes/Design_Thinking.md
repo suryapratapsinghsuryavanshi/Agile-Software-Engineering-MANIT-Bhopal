@@ -61,33 +61,20 @@ By bringing together people with different backgrounds and expertise, design thi
 
 ## What are the rule and guidelines that are followed for design thinking workshop.
 
-Design thinking workshops are a collaborative and creative process that aims to generate user-centered and feasible solutions. To ensure a productive and successful workshop, it's essential to follow certain rules and guidelines:
+Set Guidelines and Rules for the Workshop
+The pre-call should also set expectations regarding the expected behavior of participants 
+during the workshop. The facilitator should remind the sponsor that everyone should be
 
-1. **Emphasize Human-Centeredness:** Keep the focus on understanding and empathizing with the users' needs, wants, and challenges throughout the workshop.
+aware of the following rules:
+- Bring an open mindset to the workshop.
+- Be physically present during the workshop.
+- Laptops will be turned off and other mobile devices put away (if these are not being used for note-taking) as no email or texting unrelated to the workshop should be exchanged when it takes place.
+- Exercises will be timed to keep the workshop on track.
+- Any discussions determined out of scope during the workshop will be noted and deferred to an appropriate time.
 
-2. **Foster Open Communication and Collaboration:** Encourage active participation, open-mindedness, and respect for diverse perspectives.
-
-3. **Embrace Iterative Thinking:** Be prepared to revisit and refine ideas as you progress through the design thinking process.
-
-4. **Encourage Visual Thinking:** Utilize visual tools like sketches, diagrams, and prototypes to capture and communicate ideas effectively.
-
-5. **Defer Judgment and Promote Out-of-the-Box Thinking:** Avoid premature criticism and encourage creativity during the ideation phase.
-
-6. **Balance Individual and Group Work:** Provide opportunities for both individual reflection and collaborative problem-solving.
-
-7. **Establish Clear Goals and Objectives:** Define the purpose of the workshop and ensure everyone is aligned on the desired outcomes.
-
-8. **Manage Time Effectively:** Allocate time for each phase of the design thinking process and keep the group on track.
-
-9. **Document Key Insights and Decisions:** Capture important ideas, observations, and decisions throughout the workshop.
-
-10. **Create a Welcoming and Inclusive Environment:** Ensure all participants feel comfortable sharing their thoughts and contributing to the process.
-
-11. **Embrace Failure as a Learning Opportunity:** View mistakes and setbacks as opportunities to refine ideas and improve solutions.
-
-12. **Celebrate Successes and Encourage Continuous Learning:** Recognize and celebrate achievements throughout the workshop and foster a culture of continuous learning.
-
-By following these rules and guidelines, you can create a productive and successful design thinking workshop that generates innovative solutions to real-world problems.
+These guidelines and rules are sometimes repeated in an email to all participants 
+prior to the workshop date. As we mentioned earlier in this chapter, they are also 
+typically repeated by the facilitator at the start of the workshop.
 
 
 ## Explain the are of focus that an agribusiness would like to include in design thinking workshop
