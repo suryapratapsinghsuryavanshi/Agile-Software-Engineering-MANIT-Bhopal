@@ -17,11 +17,14 @@ touch inventory
 - Add the remote machine's IP address to the inventory file.
 ```
 [all]
+# OR
 <public-ip>
 ```
 - Create an SSH key pair.
 ```
 ssh-keygen
+# OR
+ssh-keygen -t rsa -b 4096 -C "<your_email>"
 ```
 - Copy the public key to the remote machine.
 ```
@@ -31,6 +34,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub <username>@<public-ip>
 ```
 ansible all -i inventory -m ping
 ```
+![ping](./ping.png)
 - Create a playbook file.
 ```
 touch playbook.yml
@@ -54,7 +58,13 @@ touch playbook.yml
 ```
 ansible-playbook -i inventory playbook.yml
 ```
+![playbook](./playbook.png)
 - Verify the installation.
 ```
 curl http://<public-ip>
+# OR
+http://<public-ip>
 ```
+![verify](./verify.jpg)
+
+> Never try make access of this public IP, it's not available now, I've terminated the instance and deleted the key pair.
