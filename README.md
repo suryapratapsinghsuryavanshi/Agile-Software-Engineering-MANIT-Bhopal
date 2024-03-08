@@ -20,4 +20,10 @@ This course is under MTech. so have only four semesters divided into 2 and 2-sem
 ## Semester - 2
 | Subject                        | Subject Code   | Brief Description                                             |
 | ------------------------------ | -------------- | ------------------------------------------------------------ |
-| [Data Science](/notes/ds.md) | DS |  |
+| [Agile Software Testing](/notes/agile_software_testing.md) | SE-523 | |
+| [DevOps Tools Chains](/notes/devops.md) | SE-522 | |
+| [Data Science](/notes/ds.md) | SE-521 |  |
+| [Data Warehousing and Data Mining](/notes/dw.md) | SE-556 | |
+| [Research Mathodology](/notes/mth.md) | MTH-524 | |
+| [Neural Network](/notes/nn.md) | Elective(Open) - 1 | |
+| [IOT with Cloud Computing](/notes/iot.md) | Elective - 2 | |
