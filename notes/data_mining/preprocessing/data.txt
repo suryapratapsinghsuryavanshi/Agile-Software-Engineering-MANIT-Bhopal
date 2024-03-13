@@ -1,0 +1,38 @@
+Social Media Marketing(SSM)
+ntent. It typically involves creating and sharing content on social media networks, engaging with followers, running advertising campaigns, and analyzing the results to optimize performance.
+
+Social media marketing can be used to achieve various goals, such as increasing brand awareness, driving website traffic, generating leads, boosting sales, and building customer relationships. Different platforms like Facebook, Instagram, Twitter, LinkedIn, Pinterest, and TikTok offer unique opportunities and audiences, so marketers often tailor their strategies accordingly.
+
+SMM with INSTAGRAM
+Instagram uses a combination of algorithms, processes, and classifiers to personalize the user experience. The algorithm is based on machine learning and artificial intelligence. It uses hundreds of factors to decide what content to display, in what order, and when to show it to users.
+
+Instagram's algorithms consider factors such as:
+
+Post recency: Recent posts appear before older ones
+People you follow: Posts from those you follow appear organically on your feed
+User activity: Posts you've liked, shared, saved, or commented on convey your content preferences
+Explore page: The Explore page algorithm curates content on a user-by-user basis, making every Explore Page Unique.
+Reels: The Reels algorithm is designed to ensure that each user receives recommendations they are likely to enjoy
+Instagram's algorithms also consider other factors such as(parameters):
+
+Account history, Location, Profile, Device, Trends, Relevance, Popularity.
+
+[1] In fact, according to a recent update shared by the Meta-owned platform, there are “a variety of algorithms, classifiers, and processes, each with its purpose” to make sure IG users see the content that most interests them.
+
+Type of algorithm based on behavior
+Interest Targeting: Instagram's advertising platform allows advertisers to target users based on their interests, behaviors, and demographics. The algorithm analyzes user data, including their interactions with content, profiles they follow, and the types of ads they engage with, to determine which users are most likely to be interested in specific products or services.
+
+Lookalike Audiences: This algorithm identifies users who share similarities with an advertiser's existing customer base. It analyzes data from the advertiser's customer list or website visitors to identify common characteristics and then targets users who match those traits but may not be familiar with the brand yet.
+
+Ad Relevance Score: Instagram assesses the relevance and quality of ads using a relevance score. This score considers factors such as ad content, targeting, and user feedback (e.g., interactions, clicks, conversions). Ads with higher relevance scores are more likely to be shown to users, resulting in better performance and lower advertising costs.
+
+Bid Optimization: Instagram's algorithm optimizes ad delivery based on the advertiser's bidding strategy and objectives. It aims to maximize the advertiser's desired outcomes (e.g., clicks, conversions) within their budget constraints by adjusting the bid for ad placements in real time based on factors such as user engagement and competition.
+
+Ad Auction: Instagram's ad auction algorithm determines which ads are shown to users and in what order. It considers factors such as bid amount, ad relevance, and estimated action rates to select the most relevant and highest-performing ads for each user's feed or Stories.
+
+Dynamic Ads: Instagram's dynamic ads use algorithms to automatically generate personalized ad content based on user behavior and preferences. These ads dynamically display products or content tailored to each user's interests, previous interactions, and browsing history, increasing relevance and engagement.
+
+Attribution Modeling: Instagram's advertising algorithms incorporate attribution modeling to track and analyze the effectiveness of ad campaigns across different touchpoints and devices. This allows advertisers to understand how various factors contribute to conversions and optimize their ad strategies accordingly.
+
+References
+Kirsti Lang, 2023, Buffer How the Instagram Algorithm Works in 2024
