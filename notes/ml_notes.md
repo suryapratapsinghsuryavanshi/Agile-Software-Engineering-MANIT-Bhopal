@@ -28,7 +28,7 @@ In machine learning, features are the measurable properties or characteristics o
 | Real Value            | Box Office Revenue              | $1,000,000, $10,000,000, ... (continuous)    |
 
 ### ML Model Train & Test
-![T&T]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfeogeQdBhNdtgOkJgmh4SUy7M9GIM5tHk56avDWZTL2XJWP-40r8_z_pl3wAnUSaDRC4&usqp=CAU](https://adilmoujahid.com/images/machine-learning-training-prediction-2.png))
+![T&T](https://adilmoujahid.com/images/machine-learning-training-prediction-2.png)
 
 ## Overfitting:
 Overfitting occurs when a machine learning model learns the training data too well, capturing noise or random fluctuations rather than the underlying patterns. This can result in poor generalization to new, unseen data.
