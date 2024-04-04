@@ -1,9 +1,15 @@
 # Agile Software Testing
 
+### Case Study:
+- <b>KSoil:</b> A oil company made huge profits by Addvertising the product.
+- <b>Wiredrive Transformation:</b> [Link](https://www.cprime.com/wp-content/uploads/woocommerce_uploads/2013/05/Agile-Case-Study-Wiredrive-cPrime.pdf)
+- <b>Blockchain Application Case Study:</b> [Link](https://www.mobiloitte.com/blog/blockchain-and-real-world-problem/)
+
+
 ### What it is?
 It is a study of testing techniques, tools, and practices in Agile Software Development, with a focus to test each ad every aspect of the software and ensure the quality of the software is up to the mark.
 
-The Quality can be defined as:
+#### The Quality can be defined as:
 - The software should be free from defects.
 - The software should meet the customer requirements.
 - The software should be delivered on time.
@@ -11,7 +17,7 @@ The Quality can be defined as:
 - The software should be maintainable.
 - The software should be reliable, scalable, and secure.
 
-It is:
+#### It is:
 - A continuous process.
 - A collaborative effort.
 - Constant Responsiveness.
@@ -121,6 +127,41 @@ It is:
 | Less reliable. | More reliable. |
 | Less accurate. | More accurate. |
 | Tools: Jira, TestRail, TestLink, etc. | Tools: Selenium, Appium, JMeter, etc. |
+
+### Agile Tester Activities:
+- Understand the requirements, and configuring the testing environment. Phase wise testing.
+- Write test cases, and execute the test cases.
+- Report the defects, and retest the defects.
+- Automate the test cases, and run the test cases.
+- Mentoring the team members, and participate in the meetings.
+- Understanding implementation details, and providing feedback, by updating various strategies.
+- Participate in the Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective meetings.
+- Report defects, and framing the strategies for fixing the defects.
+
+#### Test Planing:
+- Define the stories, and acceptance criteria.
+- Choosing test tools, and crafting the test strategy.
+- Assigning the test cases, and creating the test plan.
+- Schedule the test cases, and executing the test cases.
+- Expected outcome, and actual outcome.
+- Binding perameters:
+    - Timing
+    - Resources
+    - Budget
+    - Scope
+
+### Tester Responsibilities:
+- Team Work
+- Empower
+    - Self Organized
+    - Self Managed
+- Co-Located
+- Colaboration
+- Commited
+- Parspactive
+    - Surrvey Project
+- Transparency
+- Credible 
 
 ### What is Agile Manifesto?
 Agile Manifesto is a set of values and principles for Agile Software Development, which was created by a group of software developers in 2001, to improve the software development process and deliver the software on time with high quality. It is based on the following values and principles:
