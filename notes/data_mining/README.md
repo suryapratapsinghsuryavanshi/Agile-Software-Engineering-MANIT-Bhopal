@@ -1,2 +1,12 @@
 # Data Mining
 - [Data Preprocessing](./preprocessing/)
+- KDD, What is Data, What Is Mining
+- Apriori Algorithm
+- FP-Tree Algorithm
+- Association Rule Mining
+- KNN(Distance - Ecludian, Manhattan, Minkowski, Hamming, Weight - Similarity)
+- Naive Bayes
+- [SVM](./svm.pdf)(Linear, Non-Linear)
+- K-Mean
+- [Regression](./regression.pdf)
+- Warehousing, Mining, Architecture
