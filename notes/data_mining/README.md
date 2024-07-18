@@ -10,3 +10,7 @@
 - K-Mean
 - [Regression](./regression.pdf)
 - Warehousing, Mining, Architecture
+
+
+#### What is the difference between load and ingestion?
+Data Ingestion vs Data Loading: While often used interchangeably, data ingestion encompasses the discovery, batching, and streaming of data from source systems into a data storage. Data loading, on the other hand, is the process of moving data into a specific storage layer or database.

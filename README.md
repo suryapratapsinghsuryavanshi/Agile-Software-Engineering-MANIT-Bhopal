@@ -20,8 +20,8 @@ This course is under MTech. so have only four semesters divided into 2 and 2-sem
 ## Semester - 2
 | Subject                        | Subject Code   | Brief Description                                             |
 | ------------------------------ | -------------- | ------------------------------------------------------------ |
-| [Agile Software Testing](/notes/agile_software_testing.md) | SE-523 | |
-| [DevOps Tools Chains](/notes/devops.md) | SE-522 | |
+| [Agile Software Testing](/notes/agile_software_testing.md) | SE-523 | The Testing is to be done while considering the agile methodology, which suggests testing every step of the product development cycle. |
+| [DevOps Tools Chains](/notes/devops.md) | SE-522 | This is the <b>heart</b> of the entire course, which teaches the industrial work process for a huge project. On a project that may take years to complete. Where requirement rapidly changes and need to be incorporated. |
 | [Data Science](/notes/ds.md) | SE-521 |  |
 | [Data Warehousing and Data Mining](/notes/dw.md) | SE-556 | |
 | [Research Mathodology](/notes/mth.md) | MTH-524 | |
